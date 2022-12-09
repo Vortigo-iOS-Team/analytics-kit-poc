@@ -1,1 +1,3 @@
-# analytics-poc
+# AnalyticsKit
+
+A description of this package.
